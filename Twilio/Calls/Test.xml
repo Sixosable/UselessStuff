@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Say voice="woman">Hi there, Jakub found a song for you. Enjoy!</Say>
-    <Play loop="10">https://api.twilio.com/cowbell.mp3</Play>
+    <Play loop="10">https://raw.githubusercontent.com/Sixosable/UselessStuff/master/Twilio/Calls/Song.mp3</Play>
 </Response>
